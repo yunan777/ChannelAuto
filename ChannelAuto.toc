@@ -1,0 +1,11 @@
+## Interface: 20503
+## Title: ChannelAuto
+## Notes: Auto join/leave channel.
+## Author: Nan
+## Version: 0.1
+## SavedVariables: ChannelAutoDB
+
+embeds.xml
+
+Locales\Locales.xml
+ChannelAuto.lua
